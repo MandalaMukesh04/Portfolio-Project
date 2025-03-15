@@ -66,3 +66,6 @@ Modify skills, projects, and experience in respective sections.
 Replace images inside the images/ folder.
 
 Customize styles in css/style.css.
+
+
+![Image](https://github.com/user-attachments/assets/65628dd0-69bd-42a4-99c7-ddb94a4157f4)
