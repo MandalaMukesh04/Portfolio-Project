@@ -51,7 +51,7 @@ project-root/
 
 Download or Clone the Repository
 
-git clone https://github.com/MandalaMukesh2004/portfolio-website.git
+git clone https://github.com/MandalaMukesh04/portfolio-website.git
 
 Open index.html in a Browser
 
