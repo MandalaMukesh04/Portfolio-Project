@@ -67,5 +67,7 @@ Replace images inside the images/ folder.
 
 Customize styles in css/style.css.
 
+# Interface of the Website.
+
 
 ![Image](https://github.com/user-attachments/assets/65628dd0-69bd-42a4-99c7-ddb94a4157f4)
