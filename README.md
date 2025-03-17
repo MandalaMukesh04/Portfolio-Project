@@ -44,7 +44,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/portfolio-website.git
+   git clone https://github.com/MandalaMukesh04/portfolio-website.git
    cd portfolio-website
    ```
 2. Open `index.html` in a browser.
