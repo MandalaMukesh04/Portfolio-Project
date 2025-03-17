@@ -1,5 +1,8 @@
 # Responsive Portfolio Website
 
+## Deployment
+<a href = "https://67d8460ec8a27959f56fb414--remarkable-muffin-0fb573.netlify.app/"> **Live Demo**
+
 ## Overview
 This is a fully responsive personal portfolio website designed to showcase skills, projects, and professional background. The website is built using HTML, CSS, and Bootstrap, ensuring a modern and elegant user experience.
 
@@ -46,17 +49,7 @@ To run the project locally, follow these steps:
    ```
 2. Open `index.html` in a browser.
 
-## Deployment
-You can deploy the website on GitHub Pages, Netlify, or Vercel:
 
-### Netlify:
-1. <a href = "https://67d8460ec8a27959f56fb414--remarkable-muffin-0fb573.netlify.app/"> **Live Demo**
-
-
-### Vercel:
-1. Sign up at [Vercel](https://vercel.com/).
-2. Link your GitHub repository.
-3. Deploy instantly.
 
 
 
