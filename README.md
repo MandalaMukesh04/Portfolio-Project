@@ -49,6 +49,8 @@ To run the project locally, follow these steps:
    ```
 2. Open `index.html` in a browser.
 
+![Image](https://github.com/user-attachments/assets/ea2ef71d-0689-4859-8710-0c691435d336)
+
 
 
 
